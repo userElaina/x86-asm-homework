@@ -1,0 +1,9 @@
+archive
+
+*.bin
+*.img
+*.vhd
+
+core.asm
+mbr.asm
+diskdata.txt
